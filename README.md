@@ -23,8 +23,8 @@
 - High standard deviation due to outliers.
 
 ## Machine Learning prediction
-![image](https://user-images.githubusercontent.com/89664955/235512237-c0737e84-8269-4667-9d5f-09f7dd3c641e.png)
-- Based on the graph, logistic regression has the best performance.
+
+- Based on the graph, even though the result is not great, logistic regression has the best performance. Accuracy is around 61% to 64%.
 - 
 ## Challenge
 - There are not enough features such as players' injuries, playstyles, etc. that can affect the result of the match.
