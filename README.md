@@ -1,7 +1,7 @@
 # Tennis_match_prediction
 - This respitory is dedicated to predicting the winner of a tennis match.
 - Use 4 different machine learning algorithms: Logistic Regression, Gaussian Naive Nayes, QuadraticDiscriminantAnalysis, RidgeClassifier.
-- Metrics: Accuracy, Precision, and Recall.
+- Metric: We only used accuracy since we just want to predict the winners.
 
 ## Preparation of data
 - I only picked matches that are completed.
@@ -23,8 +23,15 @@
 - High standard deviation due to outliers.
 
 ## Machine Learning prediction
-
+![image](https://user-images.githubusercontent.com/89664955/235519508-59e6fefc-536e-4f01-a368-11e62e0b9627.png)
 - Based on the graph, even though the result is not great, logistic regression has the best performance. Accuracy is around 61% to 64%.
-- 
+ 
 ## Challenge
 - There are not enough features such as players' injuries, playstyles, etc. that can affect the result of the match.
+
+# How to re-create the result
+- Download data from http://www.tennis-data.co.uk/
+- Use the python script called 'Tennis_Matches_ML' to clean, analyze, and generate the final result.
+
+#### Packages:
+- All of the usual packages: sklearn, pandas, numpy, and matplotlib.
