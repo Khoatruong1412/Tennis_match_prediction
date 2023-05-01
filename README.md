@@ -29,7 +29,7 @@
  
 ## Challenge
 - There are not enough features such as players' injuries, playstyles, etc. that can affect the result of the match.
-
+- Need to web scrapping for these features on sports' websites.
 # How to re-create the result
 - Download data from http://www.tennis-data.co.uk/
 - The dataset is too big so I can't upload to github. However, all of the data are on this website and they are free!
