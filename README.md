@@ -19,6 +19,7 @@
 - The higher the difference, the better the model.
 ![image](https://user-images.githubusercontent.com/89664955/235507758-2348cb81-39fe-45e8-8b20-85996aaab664.png)
 - Most of the time, the difference is high. However, around 25% of the players that win matches with less points.
+
 ![image](https://user-images.githubusercontent.com/89664955/235508059-c04f337e-ee94-49ab-97a0-fc98c1670073.png)
 - High standard deviation due to outliers.
 
