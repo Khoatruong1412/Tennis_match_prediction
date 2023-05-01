@@ -22,5 +22,9 @@
 ![image](https://user-images.githubusercontent.com/89664955/235508059-c04f337e-ee94-49ab-97a0-fc98c1670073.png)
 - High standard deviation due to outliers.
 
+## Machine Learning prediction
+![image](https://user-images.githubusercontent.com/89664955/235512237-c0737e84-8269-4667-9d5f-09f7dd3c641e.png)
+- Based on the graph, logistic regression has the best performance.
+- 
 ## Challenge
 - There are not enough features such as players' injuries, playstyles, etc. that can affect the result of the match.
