@@ -3,7 +3,7 @@
 - Use 4 different machine learning algorithms: Logistic Regression, Gaussian Naive Nayes, QuadraticDiscriminantAnalysis, RidgeClassifier.
 - Metrics: Accuracy, Precision, and Recall.
 
-# Preparation of data
+## Preparation of data
 - I only picked matches that are completed.
 - The original dataset 
 ![image](https://user-images.githubusercontent.com/89664955/235504749-4e0f3354-185f-4ffe-b54f-8ddbceb877c5.png)
@@ -13,4 +13,11 @@
 - Target: Winner of the match.
 ![image](https://user-images.githubusercontent.com/89664955/235507046-b6513e60-15e3-4a1b-908f-0b214734d330.png)
 
-# Data analysis
+## Data analysis
+#### Yearly Difference of ranking points
+- Difference = Winner's point - Loser's point.
+- The higher the difference, the better the model.
+![image](https://user-images.githubusercontent.com/89664955/235507758-2348cb81-39fe-45e8-8b20-85996aaab664.png)
+- Most of the time, the difference is high. However, we notice that around 25% of the data, there are players that win matches with less points.
+![image](https://user-images.githubusercontent.com/89664955/235508059-c04f337e-ee94-49ab-97a0-fc98c1670073.png)
+- High standard deviation due to outliers.
