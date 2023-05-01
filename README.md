@@ -23,4 +23,4 @@
 - High standard deviation due to outliers.
 
 ## Challenge
-- There are not enough features such as players' injuries, playstyles
+- There are not enough features such as players' injuries, playstyles, etc. that can affect the result of the match.
